@@ -3,6 +3,7 @@
     "description": "imagesloaded jquery plugin fork",
     "type": "library",
     "license": "MIT",
+	"minimum-stability": "stable",
     "authors": [
         {
             "name": "gymadarasz",
